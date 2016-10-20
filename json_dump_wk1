@@ -1,0 +1,1 @@
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "Test1", "Test2", "Test3", {"ip_address_1_pfx": "24", "ip_address_2": "2001::1", "host_device_1": "Test Device", "host_device_1_os": "IOS", "ip_address_2_pfx": "64", "ip_address_1": "1.1.1.1", "host_device_1_plat": "Cisco"}]
